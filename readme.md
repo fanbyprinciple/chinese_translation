@@ -21,7 +21,11 @@ Hugging face provided an off the shelf solution for the model translation
 
 ![](hugging_simple.png)
 
-https://www.kaggle.com/fanbyprinciple/hugging-face-chinese-translation-example/edit
+https://www.kaggle.com/fanbyprinciple/tesseract-hugging-face-google-trans-chinese/edit
 
-limited success
+limited success achieved and lots of debugging
+![](limited_success.png)
+
+Able to finally extract chinese characters
+![](chinese_text.png)
 
