@@ -29,3 +29,15 @@ limited success achieved and lots of debugging
 Able to finally extract chinese characters
 ![](chinese_text.png)
 
+## Converting english to chinese.
+
+Open nmt link is one thing to look out for
+https://github.com/OpenNMT/OpenNMT-py
+
+## Adam gietgey blog
+https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476
+
+## creating flask app
+
+https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
+
