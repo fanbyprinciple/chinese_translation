@@ -3,7 +3,12 @@ installations
 flask
 python-dotenv - pip
 
+### Flask and React up
+from : https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project!
+
 ![](flask_up.png)
+
+![](react_up.png)
 
 # Getting Started with Create React App
 
